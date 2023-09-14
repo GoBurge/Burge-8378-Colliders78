@@ -8,6 +8,8 @@ TagManager:
   - Point 1
   - Point 2
   - Coin
+  - LScore
+  - RScore
   layers:
   - Default
   - TransparentFX
